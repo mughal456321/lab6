@@ -1,0 +1,5 @@
+Console.WriteLine("Rice");
+Console.WriteLine("Coocking Oil");
+Console.WriteLine("Soap");
+Console.WriteLine("Eggs");
+Console.WriteLine("Suagr");
